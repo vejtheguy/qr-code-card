@@ -19,8 +19,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    width: 100vw;
-    height: 100vh;
+    min-height: 100vh;
     background-color: var(--lightGray);
     font-family: 'Outfit', sans-serif;
 }
